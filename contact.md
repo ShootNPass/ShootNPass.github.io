@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 subtitle: Question, comment, camera return?
+comments: false
 ---
 
 <br> 

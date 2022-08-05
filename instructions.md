@@ -2,6 +2,7 @@
 layout: page
 title: Instructions
 subtitle: Take part in the Shoot'N'Pass experiment!
+comments: false
 ---
 <br>
 

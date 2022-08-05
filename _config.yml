@@ -22,10 +22,9 @@ author: Shoot'N'Pass team
 navbar-links:
   The Project: "project"
   Instructions: "instructions"
+  Results:
+    - Film 0: "results_film0"
   Contact: "contact"
-
-imagesurl: "/images/photo/"
-thumbsurl: "/images/photo/"
 
 
 ################
@@ -186,7 +185,7 @@ footer-hover-col: "#0085A1"
 ####################
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "shootnpass"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
