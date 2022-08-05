@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Film #0
+title: "Film #0"
 subtitle: An experiment of collaborative photography
 comments: true
 ---
@@ -8,6 +8,9 @@ comments: true
 <br>
 
 ### Film #0 (test)
+
+The cameras have not been sent yet. In the meantime, you can find below the result of a pilot experiment from 2018.
+In Cuba, we gave a disposable camera to a family from la Havana for a week. Film #0 shows the result.
 
 <div class="row">
   <div class="column">

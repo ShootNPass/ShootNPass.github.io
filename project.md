@@ -18,6 +18,10 @@ Several disposable cameras are spread throughout the city. They all contain the 
 
 Results will be displayed on this page.
 
+# Contribute!
+
+If you want to contribute to the project by spreading more disposable cameras in **your** city, please [contact us](/contact)!
+
 # Results
 
 The cameras have not been sent yet. In the meantime, you can find below the result of a pilot experiment from 2018.
