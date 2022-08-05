@@ -1,0 +1,30 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Gallery
+
+// - - - - - - - - - - - - - - - - - -
+
+.gallery {
+	visibility: hidden;
+	position: relative;
+	margin: 20px auto;
+
+	&:first-child {
+		margin-top: 0;
+	}
+}
+
+.gallery--on {
+	visibility: visible;
+}
+
+.gallery__item {
+	position: relative;
+
+	img {
+		width: 100%;
+	}
+}
+
+
+
