@@ -14,9 +14,8 @@ If you found a camera, congratulations, you're contributing to the Shoot'N'Pass 
   could be a place, a hidden place you like, where you go when you need space, where you feel at home. Anything really.
 
 * Step 2 -- <b><u>Pass</u></b>: bring the camera elsewhere in the city and give it to **someone you don't know**, a friend of a friend, a stranger. Please make sure they are 
-  interested in 
-the experiment before you hand them the camera. If you feel like it, [contact us](/contact) and tell us which camera you found (camera ID), the value of the frame counter 
-  (frame ID), where you took your picture, or any information you might want to share.  
+  interested in the experiment before you hand them the camera. If you feel like it, [contact us](/contact) and tell us which camera you found (camera ID), the value of the frame counter 
+  (frame ID), where you took your picture, or any information you might want to share. **Take note of the website's address** to come check the results later! 
 
 **Important**: If you've just taken the last picture, that is, if the counter equals the number of pictures the camera can take (usually 24 or 27), then [contact us](/contact) to 
 organize the camera's return. We'll come pick it up, develop it and show the results [here](/project) on this website. 
