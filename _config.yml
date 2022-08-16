@@ -23,7 +23,7 @@ navbar-links:
   The Project: "project"
   Instructions: "instructions"
   Results:
-    - Film 0: "results_film0"
+    - Film 0 -- La Havana: "results_film0"
   Contact: "contact"
 
 

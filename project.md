@@ -14,7 +14,8 @@ comments: false
 
 **Shoot'N'Pass** is an experiment of collaborative photography where everyday people collaborate in the photographic capture of a city's spirit: its people, its darkest and brightest corners, its hidden gems, its pockets of beauty.
 
-Several disposable cameras are spread throughout the city. They all contain the same [instructions](/instructions.md): **shoot** a picture of your city; **pass** the camera to someone else you don't know.
+Several disposable cameras are spread throughout the city. They all contain the same [instructions](/instructions.md): **shoot** a picture of your city; **pass** the camera to 
+a stranger.
 
 Results will be displayed on this page.
 
@@ -24,7 +25,7 @@ If you want to contribute to the project by spreading more disposable cameras in
 
 # Results
 
-The cameras have not been sent yet. In the meantime, you can find below the result of a pilot experiment from 2018.
-In Cuba, we gave a disposable camera to a family from la Havana for a week. Film #0 shows the result.
+The cameras have not been sent yet. In the meantime, find the result of a pilot experiment from 2018.
+In Cuba, we gave a disposable camera to a family from la Havana for a week. 
 
-* [Film #0 (test)](/results_film0)
+* [Film #0 -- La Havana (test)](/results_film0)
